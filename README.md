@@ -1,1 +1,1 @@
-# BBDA-Course-repo
+# The course repository
